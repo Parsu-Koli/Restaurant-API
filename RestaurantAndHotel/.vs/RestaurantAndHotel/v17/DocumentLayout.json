@@ -1,0 +1,1156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\MenuItemServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\wwwroot\\images\\menu\\c550f2b4-4265-42be-8ea7-68e24c302c20.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:wwwroot\\images\\menu\\c550f2b4-4265-42be-8ea7-68e24c302c20.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\stockitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\stockitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\restauranttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\restauranttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\restaurantandhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:restaurantandhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\tmpDA5F.tmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\my projects\\mydummy\\restaurant and hotel\\restaurantandhotel\\wwwroot\\images\\menu\\aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B5E5B670-2A81-4F01-8527-742EE9A74363}|RestaurantAndHotel.csproj|solutionrelative:wwwroot\\images\\menu\\aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IMenuItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\MenuItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IMenuItemService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\MenuItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\UserServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\ReservationTableRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\ReservationWithTableDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreatePaymentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderItemResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateOrderDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateMenuItemDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\UpdateOrderDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Migrations\\20260224092224_menuitem-image.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IOrderServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\PaymentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\ReservationTableServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\ReservationTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\PaymentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\TableCurrentOrderDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RestaurantTableRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\RestaurantTableServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IRestaurantTableService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRestaurantTableRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRoleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\RestaurantTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\DashboardRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\StockItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IPaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IPaymentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\DashboardServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderItemsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CustomerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\SupplierRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\StockItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RoleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IReservationTableRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderItemServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuItemController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:48:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:48:33.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IMenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IMenuItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:35:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T10:33:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\MenuItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:50:05.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:34:34.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItemServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\MenuItemServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\MenuItemServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\MenuItemServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\MenuItemServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:51:41.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IMenuItemService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IMenuItemService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IMenuItemService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IMenuItemService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:33:08.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\MenuItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\MenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\MenuItemRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\MenuItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:45:31.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockItemController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\StockItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StockItemController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\StockItemController.cs",
+              "RelativeToolTip": "Controllers\\StockItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:47:00.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantTableController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\RestaurantTableController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantTableController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\RestaurantTableController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantTableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:09:35.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:47:21.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "c550f2b4-4265-42be-8ea7-68e24c302c20.jpg - Bitmap [574x578, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\wwwroot\\images\\menu\\c550f2b4-4265-42be-8ea7-68e24c302c20.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\menu\\c550f2b4-4265-42be-8ea7-68e24c302c20.jpg",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\wwwroot\\images\\menu\\c550f2b4-4265-42be-8ea7-68e24c302c20.jpg - Bitmap [574x578, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\menu\\c550f2b4-4265-42be-8ea7-68e24c302c20.jpg - Bitmap [574x578, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-03-16T13:02:00.02Z",
+              "EditorCaption": " - Bitmap [574x578, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:32:40.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:46:53.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:48:56.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:47:50.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:35:10.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:43:27.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:48:10.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:48:16.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:46:46.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RestaurantAndHotel.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\RestaurantAndHotel.csproj",
+              "RelativeDocumentMoniker": "RestaurantAndHotel.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\RestaurantAndHotel.csproj",
+              "RelativeToolTip": "RestaurantAndHotel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T06:22:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\UserServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:47:55.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:59:35.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:04:45.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReservationTableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\ReservationTableRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\ReservationTableRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\ReservationTableRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\ReservationTableRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T05:27:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderServices.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAASwAcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:34:51.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReservationWithTableDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\ReservationWithTableDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\ReservationWithTableDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\ReservationWithTableDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\ReservationWithTableDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:29:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderResponseDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderResponseDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:45:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreatePaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreatePaymentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreatePaymentDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreatePaymentDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreatePaymentDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:48:26.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderItemResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderItemResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderItemResponseDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderItemResponseDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\OrderItemResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:17:19.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:19:58.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateMenuItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateMenuItemDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateMenuItemDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateMenuItemDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\CreateMenuItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:30:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Order.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:54:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:12:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\UpdateOrderDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\UpdateOrderDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\UpdateOrderDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\UpdateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:36:03.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\OrderItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T05:40:15.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20260224092224_menuitem-image.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Migrations\\20260224092224_menuitem-image.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Migrations\\20260224092224_menuitem-image.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Migrations\\20260224092224_menuitem-image.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Migrations\\20260224092224_menuitem-image.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:22:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IOrderServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IOrderServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IOrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:29:23.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PaymentServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\PaymentServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\PaymentServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\PaymentServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\PaymentServices.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAIBJwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:51:06.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:45:19.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:44:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReservationTableServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\ReservationTableServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\ReservationTableServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\ReservationTableServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\ReservationTableServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABQwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:31:49.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReservationTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\ReservationTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\ReservationTable.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\ReservationTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\ReservationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T05:30:12.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Payment.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:47:32.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\PaymentRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\PaymentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:01:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TableCurrentOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\TableCurrentOrderDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\TableCurrentOrderDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\TableCurrentOrderDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\DTOs\\TableCurrentOrderDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:05:14.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:34:29.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tmpDA5F.tmp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpDA5F.tmp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\tmpDA5F.tmp.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\tmpDA5F.tmp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\tmpDA5F.tmp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T04:49:58.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RestaurantTableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RestaurantTableRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RestaurantTableRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RestaurantTableRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RestaurantTableRepository.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAqwJMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:57:21.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RestaurantTableServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\RestaurantTableServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\RestaurantTableServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\RestaurantTableServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\RestaurantTableServices.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAIBJwE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:07:19.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IRestaurantTableService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IRestaurantTableService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IRestaurantTableService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IRestaurantTableService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IRestaurantTableService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:08:08.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IRestaurantTableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRestaurantTableRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRestaurantTableRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRestaurantTableRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRestaurantTableRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:06:12.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:29:13.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RestaurantTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\RestaurantTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\RestaurantTable.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\RestaurantTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\RestaurantTable.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:20:44.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Role.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:44:09.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\DashboardRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\DashboardRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\DashboardRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:42:10.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:00:33.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\StockItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\StockItem.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\StockItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\StockItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:44:01.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg - Bitmap [305x165, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\wwwroot\\images\\menu\\aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\menu\\aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\My Projects\\MyDummy\\Restaurant And Hotel\\RestaurantAndHotel\\wwwroot\\images\\menu\\aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg - Bitmap [305x165, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\menu\\aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg - Bitmap [305x165, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-24T09:43:01.681Z",
+              "EditorCaption": " - Bitmap [305x165, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:02:39.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:54:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DashboardServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\DashboardServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\DashboardServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\DashboardServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\DashboardServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:53:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OrderItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderItemsRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderItemsRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderItemsRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\OrderItemsRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA2wDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:48:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:45:25.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\SupplierRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\SupplierRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA2wC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:46:23.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "StockItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\StockItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\StockItemRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\StockItemRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\StockItemRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:46:17.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RoleRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Implementations\\RoleRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:46:11.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Category.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:45:00.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAIBJwBIBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:02:07.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IReservationTableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IReservationTableRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IReservationTableRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IReservationTableRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\DAL\\Interfaces\\IReservationTableRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:01:17.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "OrderItemServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderItemServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderItemServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderItemServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Internship\\MyDummy\\Restaurant And Hotel\\BLL\\Services\\OrderItemServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:49:48.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

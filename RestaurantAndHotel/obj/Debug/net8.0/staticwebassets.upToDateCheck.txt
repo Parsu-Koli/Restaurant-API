@@ -1,0 +1,7 @@
+wwwroot\images\menu\2452630c-5d75-437c-916e-69e001a8486f.jpg
+wwwroot\images\menu\7ed95e0e-6e9a-4729-93d6-8dc387d0ae7c.jpg
+wwwroot\images\menu\7f5748d3-2b5e-4786-a305-a306cc3aaa71.jpg
+wwwroot\images\menu\a3a3c627-479e-4a1b-b634-81a95fc3cdf6.jpg
+wwwroot\images\menu\aeeba0f5-fcef-41db-8ee1-c90e4607ef2c.jpg
+wwwroot\images\menu\c1009a99-cf67-42e2-8b0f-516177be6cbf.jpg
+wwwroot\images\menu\c550f2b4-4265-42be-8ea7-68e24c302c20.jpg
