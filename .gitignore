@@ -1,0 +1,27 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Node
+node_modules/
+
+# Publish
+publish/
