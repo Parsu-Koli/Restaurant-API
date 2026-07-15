@@ -1,92 +1,3 @@
-//using BLL.Interfaces;
-//using BLL.Services;
-//using DAL.Data;
-//using DAL.Implementations;
-//using DAL.Interfaces;
-//using Microsoft.EntityFrameworkCore;
-//using System.ComponentModel.Design;
-//namespace RestaurantAndHotel
-//{
-//    public class Program
-//    {
-//        public static void Main(string[] args)
-//        {
-//            var builder = WebApplication.CreateBuilder(args);
-
-//            builder.Services.AddControllers();
-
-//            builder.Services.AddCors(options =>
-//            {
-//                options.AddPolicy("AllowAngularApp",
-//                    policy =>
-//                    {
-//                        policy.WithOrigins("http://localhost:4200")
-//                              .AllowAnyHeader()
-//                              .AllowAnyMethod();
-//                    });
-//            });
-
-//            builder.Services.AddEndpointsApiExplorer();
-//            builder.Services.AddSwaggerGen();
-
-//            builder.Services.AddDbContext<AppDbContext>(options =>
-//                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-
-//            builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
-//            builder.Services.AddScoped<ICustomerRepository,CustomerRepository>();
-//            builder.Services.AddScoped<IMenuItemRepository,MenuItemRepository>();
-//            builder.Services.AddScoped<IOrderItemRepository, OrderItemsRepository>();
-//            builder.Services.AddScoped<IOrderRepository, OrderRepository>();
-//            builder.Services.AddScoped<IPaymentRepository, PaymentRepository>();
-//            builder.Services.AddScoped<IReservationTableRepository, ReservationTableRepository>();
-//            builder.Services.AddScoped<IRestaurantTableRepository, RestaurantTableRepository>();
-//            builder.Services.AddScoped<IRoleRepository, RoleRepository>();
-//            builder.Services.AddScoped<IStockItemRepository, StockItemRepository>();
-//            builder.Services.AddScoped<ISupplierRepository, SupplierRepository>();
-//            builder.Services.AddScoped<IUserRepository,UserRepository>();
-//            builder.Services.AddScoped<DashboardRepository>();
-
-//            builder.Services.AddScoped<IMenuItemService,MenuItemServices>();
-//            builder.Services.AddScoped<CustomerServices>();
-//            builder.Services.AddScoped<CategoryServices>();
-//            builder.Services.AddScoped<IOrderServices, OrderServices>();
-//            builder.Services.AddScoped<OrderItemServices>();
-//            builder.Services.AddScoped<IPaymentService,PaymentServices>();
-//            builder.Services.AddScoped<ReservationTableServices>();
-//            builder.Services.AddScoped<RestaurantTableServices>();
-//            builder.Services.AddScoped<RoleServices>();
-//            builder.Services.AddScoped<StockItemServices>();  
-//            builder.Services.AddScoped<SupplierServices>();
-//            builder.Services.AddScoped<UserServices>();
-//            builder.Services.AddScoped<DashboardServices>();
-
-//            var app = builder.Build();
-
-//            if (app.Environment.IsDevelopment())
-//            {
-//                app.UseSwagger();
-//                app.UseSwaggerUI(c =>
-//                {
-//                    c.DefaultModelsExpandDepth(-1);
-//                });
-
-//            }
-
-//            app.UseHttpsRedirection();
-
-//            app.UseAuthorization();
-
-//            app.UseCors("AllowAngularApp");
-//            app.UseStaticFiles();
-//            app.MapControllers();
-
-//            app.Run();
-//        }
-//    }
-//}
-
-
 using BLL.Interfaces;
 using BLL.Services;
 using DAL.Data;
@@ -120,11 +31,16 @@ namespace RestaurantAndHotel
                 });
             });
 
-            // Database
+            // Local Database
+            //builder.Services.AddDbContext<AppDbContext>(options =>
+            //    options.UseSqlServer(
+            //        builder.Configuration.GetConnectionString("DefaultConnection")
+            //    ));
+
+            //Server Connection
             builder.Services.AddDbContext<AppDbContext>(options =>
-                options.UseSqlServer(
-                    builder.Configuration.GetConnectionString("DefaultConnection")
-                ));
+                      options.UseNpgsql(
+                 builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // JWT Configuration
             var jwtSettings = builder.Configuration.GetSection("Jwt");
