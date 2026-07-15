@@ -20,12 +20,23 @@ namespace RestaurantAndHotel
             // Controllers
             builder.Services.AddControllers();
 
-            // CORS
+            // CORS Local
+            //builder.Services.AddCors(options =>
+            //{
+            //    options.AddPolicy("AllowAngularApp", policy =>
+            //    {
+            //        policy.WithOrigins("http://localhost:4200")
+            //              .AllowAnyHeader()
+            //              .AllowAnyMethod();
+            //    });
+            //});
+
+            // CORS Production
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAngularApp", policy =>
                 {
-                    policy.WithOrigins("http://localhost:4200")
+                    policy.WithOrigins("https://restaurant-frontend-p3l2.onrender.com")
                           .AllowAnyHeader()
                           .AllowAnyMethod();
                 });
